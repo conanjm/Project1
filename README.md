@@ -1,4 +1,4 @@
 # Project1
 Udacity Data Science Project1
 
-Using the GIT Command and the web Interface
+How To Use the Git Command and the WEB access for the project 1
